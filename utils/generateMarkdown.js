@@ -1,8 +1,23 @@
-# test
+// TODO: Create a function that returns a license badge based on which license is passed in
+// If there is no license, return an empty string
+function renderLicenseBadge(license) {}
+
+// TODO: Create a function that returns the license link
+// If there is no license, return an empty string
+function renderLicenseLink(license) {}
+
+// TODO: Create a function that returns the license section of README
+// If there is no license, return an empty string
+function renderLicenseSection(license) {}
+
+// TODO: Create a function to generate markdown for README
+function generateMarkdown(data, myfunction) {
+
+  let readmeData = `# ${data.title}
 
 ## Description
 
-it tests
+${data.description}
 
 ## Table of Contents
 
@@ -39,3 +54,10 @@ If you followed tutorials, include links to those here as well.
 My github: ![Link to my github profile](https://github.com/JacobDFlores)
 My email: ![jacobfdaniel@gmail.com](jacobfdaniel@gmail.com)
 
+`;
+
+return myfunction(readmeData)
+}
+
+
+module.exports = generateMarkdown;
