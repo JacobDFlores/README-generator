@@ -1,8 +1,8 @@
-# test
+# README Generator
 
 ## Description
 
-it tests
+This application prompts users for information about their project and then builds a README file based off the users input.
 
 ## Table of Contents
 
