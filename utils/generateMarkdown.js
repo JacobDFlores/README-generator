@@ -51,8 +51,8 @@ If you followed tutorials, include links to those here as well.
 
 ## Questions
 
-My github: ![Link to my github profile](https://github.com/JacobDFlores)
-My email: ![jacobfdaniel@gmail.com](jacobfdaniel@gmail.com)
+My github: [Link to my github profile](https://github.com/JacobDFlores)
+My email: [jacobfdaniel@gmail.com](jacobfdaniel@gmail.com)
 
 `;
 

@@ -30,6 +30,6 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 ## Questions
 
-My github: ![Link to my github profile](https://github.com/JacobDFlores)
-My email: ![jacobfdaniel@gmail.com](jacobfdaniel@gmail.com)
+My github: [Link to my github profile](https://github.com/JacobDFlores)
+My email: [jacobfdaniel@gmail.com](jacobfdaniel@gmail.com)
 
